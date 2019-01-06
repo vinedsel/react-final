@@ -16,7 +16,7 @@ const App = () => (
         <Link to="/about">About</Link>
       </li>
       <li>
-        <Link to="/things">Things</Link>
+        <Link to="/favoritethings">Favorite Things</Link>
       </li>
     </ul>
 
