@@ -7,13 +7,13 @@ const FavoriteThings = ({ match }) => (
     <h2>FavoriteThings</h2>
     <ul>
       <li>
-        <Link to={`${match.url}/car`}>Car</Link>
+        <Link to={`${match.url}/Honda`}>Car</Link>
       </li>
       <li>
-        <Link to={`${match.url}/food`}>Food</Link>
+        <Link to={`${match.url}/Cheeseburger`}>Food</Link>
       </li>
       <li>
-        <Link to={`${match.url}/movie`}>Movie</Link>
+        <Link to={`${match.url}/Hausu`}>Movie</Link>
       </li>
     </ul>
 
